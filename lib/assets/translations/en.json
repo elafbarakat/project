@@ -1,0 +1,21 @@
+{
+  "home": {
+    "center": "Youth Empowerment Center",
+    "fonts": {
+      "primaryFont": "couture"
+    }
+  },
+  "form": {
+    "formOne": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "englishFullName": "English full name",
+      "fatherName": "Father name",
+      "motherName": "Mother name",
+      "gender": "Gender",
+      "DateOfBirth": "Date of birth",
+      "city": "City",
+      "constraint": "Constraint"
+    }
+  }
+}

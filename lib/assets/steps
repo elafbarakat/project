@@ -1,0 +1,9 @@
+1 - add package easy_localization: 3.0.2
+
+2 - folder translations in assets and create language files namde with language code and ext with json
+
+3 - Declare your assets localization directory in pubspec.yaml:
+
+4 - run flutter pub run easy_localization:generate -S 'lib/assets/translations' in terminal
+
+5 - run flutter pub run easy_localization:generate -S 'lib/assets/translations' -O 'lib/assets/generated' -O 'lib/assets/generated/locale_keys.g.dart' -f keys;

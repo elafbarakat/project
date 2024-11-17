@@ -1,0 +1,21 @@
+{
+  "home": {
+    "center": "مركز تمكين الشباب",
+    "fonts": {
+      "primaryFont": "notoKufi"
+    }
+  },
+  "form": {
+    "formOne": {
+      "firstName": "الإسم الأول",
+      "lastName": "الكنية",
+      "englishFullName": "الإسم الكامل باللغة الإنكليزية",
+      "fatherName": "إسم الأب",
+      "motherName": "إسم الأم",
+      "gender": "الجنس",
+      "DateOfBirth": "تاريخ الولادة",
+      "city": "المدينة",
+      "constraint": "القيد"
+    }
+  }
+}
